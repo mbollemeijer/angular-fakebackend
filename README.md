@@ -25,4 +25,4 @@ export class AppFakebackendModule {
 }
 ```
 
-Add AppFakebackendModule to your `app.modules.ts`
+Add `AppFakebackendModule` to your `app.modules.ts`
