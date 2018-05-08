@@ -1,8 +1,9 @@
 # Fakebackend
 
-### Usage
+This module lets you easily do backend less development
 
-app-fakebackend.ts
+### Usage
+`app-fakebackend.ts`
 ```
 let routes: Route[] = [];
 
@@ -26,3 +27,9 @@ export class AppFakebackendModule {
 ```
 
 Add `AppFakebackendModule` to your `app.modules.ts`
+
+# TODO
+
+- Finish unit testing.
+- Gather more use cases.
+- Drink coffee
